@@ -19,7 +19,7 @@ Edit
 ├── contact.html      → Contact page  
 └── style.css         → Styles for both pages
 🌐 Live Preview
-Click here to view the live site 
+Click here to view the live site link(https://abishekjs28.github.io/Porfolio-Simple-website/index.html)
 
 📬 Contact
 For feedback or collaboration, feel free to contact me through the Contact page.
